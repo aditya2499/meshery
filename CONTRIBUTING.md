@@ -130,6 +130,8 @@ _Tip:_ The [Meshery adapter for Istio](https://github.com/layer5io/meshery-istio
 ## <a name="contributing-ui">UI Contribution Flow</a>
 Meshery is written in `Go` (Golang) and leverages Go Modules. UI is built on React, Billboardjs and Next.js. To make building and packaging easier a `Makefile` is included in the main repository folder.
 
+![ui/assets/img/readme/mesheryui.PNG](ui/assets/img/readme/mesheryui.PNG)
+
 ### Install UI dependencies
 To install/update the UI dependencies:
 ```
